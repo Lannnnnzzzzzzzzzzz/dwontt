@@ -1,12 +1,12 @@
 # dwontt
-dwonload vidio tiktok by lann
+dwonload vidio tiktok no watermark by Lann
 
-how to use the app locally?
+bagaimana cara menggunakan aplikasi secara lokal?
 
 https://github.com/Lannnnnzzzzzzzzzzz/dwontt.git
 npm install
 
-once the modules are installed, start the server with npm run dev (you need nodemon).
+setelah modul terinstal, mulai server dengan npm run dev (Anda memerlukan nodemon).
 
 npm install nodemon -g
 
